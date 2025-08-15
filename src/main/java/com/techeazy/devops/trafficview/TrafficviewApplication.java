@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TrafficviewApplication {
 
-	//iChanges on stageMain app file changes in feature branch
+	// feature 1 changes ---Main app file changes in feature branch
 	public static void main(String[] args) {
 		SpringApplication.run(TrafficviewApplication.class, args);
 	}
